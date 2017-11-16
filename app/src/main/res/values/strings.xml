@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hallo Android</string>
+
+    <!-- Willkommens Meldung -->
+    <string name="willkommen">
+Guten Tag, schön dass Sie die App gestartet haben
+Bitte verraten sie mir Ihren Name:
+    </string>
+
+    <!-- Persönliche Begrüßung -->
+
+    <string name="hallo">
+Hallo %1$s. Ich freue mich, Sie kennenzulernen.
+
+    </string>
+
+    <!-- Beschriftung der Schaltfächen -->
+    <string name="weiter">Weiter</string>
+    <string name="fertig">Fertig</string>
+    <string name="vorname_nachname">Vorname Nachname</string>
+
+
+</resources>
